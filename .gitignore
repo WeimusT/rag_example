@@ -1,0 +1,6 @@
+*.amltmp
+.env
+notebooks/.ipynb_aml_checkpoints
+src/.amlignore
+notebooks/.amlignore
+.amlignore
